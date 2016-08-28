@@ -14,6 +14,7 @@ MY CSS CODING:
 	}
 	
 .navbar	{
+	
 	height: 50px;
         padding: 0;
 	margin: 0;
