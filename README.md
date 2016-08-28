@@ -23,6 +23,7 @@ MY CSS CODING:
 	}
 	
 .navbar li 	{
+			
 			height: auto;
 			width: 150px;  /* Each menu item is 150px wide */
 			float: left;  /* This lines up the menu items horizontally */
@@ -33,7 +34,9 @@ MY CSS CODING:
 			margin: 0;
 			background-color: #00ccff;
                         }
+                        
 .navbar a	{							
+	
 		padding: 18px 0;  /* Adds a padding on the top and bottom so the text appears centered vertically */
 		border-left: 1px solid #ffffff; /* Creates a border in a slightly lighter shade of blue than the background.  Combined with the right border, this creates a nice effect. */
 		border-right: 1px solid #ffffff; /* Creates a border in a slightly darker shade of blue than the background.  Combined with the left border, this creates a nice effect. */
@@ -41,7 +44,9 @@ MY CSS CODING:
 		color: white; /* Text color is white */
 		display: block;
 		}
+		
 .navbar li ul 	{
+		
 		display: none;  /* Hides the drop-down menu */
 		height: auto;									
 		margin: 0; /* Aligns drop-down box underneath the menu item */
