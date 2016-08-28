@@ -12,6 +12,7 @@ MY CSS CODING:
 	position: fixed; 
 	background-color: #00ccff;
 	}
+	
 .navbar	{
 	height: 50px;
         padding: 0;
@@ -19,6 +20,7 @@ MY CSS CODING:
 	position: absolute; /* Ensures that the menu doesn’t affect other elements */
 	border-right: 1px solid #00ccff; 
 	}
+	
 .navbar li 	{
 			height: auto;
 			width: 150px;  /* Each menu item is 150px wide */
