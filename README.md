@@ -54,10 +54,14 @@ MY CSS CODING:
 		}				
 
 .navbar li:hover ul 	{
+                        
                         display: block; /* Displays the drop-down box when the menu item is hovered over */
                         }
+                        
 .navbar li ul li {background-color: #00ccff;} 
+
 .navbar li ul li a 	{
+	
 		border-left: 1px solid #ffffff; 
 		border-right: 1px solid #ffffff; 
 		border-top: 1px solid #ffffff; 
@@ -69,6 +73,7 @@ MY CSS CODING:
 
 
 body {
+ 
   background: #F8A434;
   font-family: 'Lato', sans-serif;
   color: #FDFCFB;
@@ -77,12 +82,14 @@ body {
 
 
 form {
+  
   width: 450px;
   margin: 17% auto;
 }
 
 
 .header {
+  
   font-size: 35px;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -90,6 +97,7 @@ form {
 
 
 .description {
+ 
   font-size: 14px;
   letter-spacing: 1px;
   line-height: 1.3em;
@@ -98,18 +106,21 @@ form {
 
 
 .input {
+ 
   display: flex;
   align-items: center;
 }
 
 
 .button {
+ 
   height: 44px;
   border: none;
 }
 
   
 #email {
+ 
   width: 75%;
   background: #FDFCFB;
   font-family: inherit;
@@ -121,6 +132,7 @@ form {
 
 
 #submit {
+ 
   width: 25%;
   height: 46px;
   background: #E86C8D;
@@ -135,11 +147,13 @@ form {
   
 
 #submit:hover {
+  
   background: #d45d7d;
 }
   
 
 input:focus {
+ 
   outline: none;
   outline: 2px solid #E86C8D;
   box-shadow: 0 0 2px #E86C8D;
